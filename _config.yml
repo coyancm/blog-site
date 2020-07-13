@@ -28,6 +28,7 @@ instagram_username: coyancm
 github_username:  coyancm
 
 # Build settings
+remote_theme: jekyll/minima
 theme: minima
 plugins:
   - jekyll-feed
