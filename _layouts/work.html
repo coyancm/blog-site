@@ -9,7 +9,7 @@ layout: default
 
   <div class="post-content">
     {{ content }}
-      {% include image-gallery.html folder="/uploads/album" %}
+      {% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
   </div>
 
 </article>
