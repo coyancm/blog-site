@@ -5,16 +5,16 @@ permalink: /work/
 
 galleries:
   - title: Illustrations
-    image: /uploads/album/menu/1.jpg
+    image: /uploads/album/1.jpg
     url: /
   - title: Personal
-    image: /uploads/album/menu/2.jpg
+    image: /uploads/album/2.jpg
     url: /
   - title: Realty
-    image: /uploads/album/menu/3.jpg
+    image: /uploads/album/3.jpg
     url: /
   - title: Hired
-    image: /uploads/album/menu/4.jpg
+    image: /uploads/album/4.jpg
     url: /
 ---
 
