@@ -4,4 +4,4 @@ title: Realty Projects
 permalink: /realty/
 ---
 
-This is a collection of real estate photography.
+A collection of real estate photography I've taken and edited over the years.
