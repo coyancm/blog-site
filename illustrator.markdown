@@ -1,7 +1,7 @@
 ---
 layout: illustrator
-title: ill
+title: Illustrator Work
 permalink: /ill/
 ---
 
-This is a test to see if the portfolio has been set up correctly.
+This is my collection of Illustration work from over the years.
