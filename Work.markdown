@@ -6,16 +6,16 @@ permalink: /work/
 galleries:
   - title: Illustrations
     image: /uploads/album/1.jpg
-    url: /
+    url: /ill
   - title: Personal
     image: /uploads/album/2.jpg
-    url: /
+    url: /personal
   - title: Realty
     image: /uploads/album/3.jpg
-    url: /
+    url: /realty
   - title: Hired
     image: /uploads/album/4.jpg
-    url: /
+    url: /hired
 ---
 
 This is a test to see if the portfolio has been set up correctly.
