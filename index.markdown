@@ -12,6 +12,4 @@ I'm a d20 rolling, photo taking, designer with a passion for all things creative
 <br>
 <br>
 Photography was my gateway into the creative world. Starting with a copy of Photoshop 7.0 in 2004 I quickly found that I wanted to learn all things realted to digital creation.
-
-
-After that it was My passion is learningOver the years I've worn a wide variety of hats and wouldn't trade it for the world. Learning new skills and trades is what keeps my fire going</p>
+</p>
