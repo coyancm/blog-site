@@ -28,6 +28,9 @@ instagram_username: coyancm
 github_username:  coyancm
 linkedin_username: cameron-coyan-a8ba8673
 
+# Google services
+google_analytics: UA—102995506-1
+
 
 # Build settings
 theme: minima
