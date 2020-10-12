@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-canonical_url: 'https://cameroncoyan.com'
 ---
 <style>
 /* Create three equal columns that floats next to each other */
