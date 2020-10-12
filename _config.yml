@@ -28,6 +28,8 @@ instagram_username: coyancm
 github_username:  coyancm
 linkedin_username: cameron-coyan-a8ba8673
 
+<link rel="canonical" href="{{ site.production_url }}{{ page.url | replace:'index.html',''}}">
+
 # Google services
 google_analytics: UA—102995506-1
 
