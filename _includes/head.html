@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="shortcut icon" type="image/png" href="/uploads/assets/site_thumb.png">
   {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+  {% if site.google_analytics and jekyll.environment == 'production' %}
     {%- include google-analytics.html -%}
   {%- endif -%}
 </head>
