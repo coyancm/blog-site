@@ -2,11 +2,12 @@
 layout: work
 title: Work
 permalink: /work/
+description: An index of works created by Cameron Coyan.
 
 galleries:
   - title: Illustrations
     image: /uploads/album/1.jpg
-    url: /ill
+    url: /illustrations
   - title: Personal
     image: /uploads/album/2.jpg
     url: /personal
