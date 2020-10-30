@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "September Game Jam"
+subtitle: "Making assets in a tight time frame."
 date:   2020-10-15 1:00:07 -0400
 categories: Game Jam
+description: "My involvement in the 2020 GDEX Game Jam"
 ---
 Last month I had the pleasure of helping a friend with their entry for the <a href="https://itch.io/jam/gdex-2020">GDEX Game Jam 2020</a> and it was a blast! 
 <br>

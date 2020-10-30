@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Creating a Site"
+subtitle: "Swapping from a sitebuilder and starting from the ground up."
 date:   2020-10-04 12:55:07 -0400
 categories: Website
+description: "Learning how to move away from a sitebuilder and build/manage my own custom website."
 ---
 Over the past couple years I've occasionally asked myself "why am I using a WYSIWYG (What You See Is What You Get) for my website?" I know HTML and CSS and there are loads of free resources out there to learn what I don't know. Sites like Github and Google Drives make online hosting incredibly easy and affordable and domain names cost little to nothing if you're not going for something in demand. So, why the hesitation? Well, the short answer is, it's easy to put it off. The longer answer, there were a couple things I still needed to learn to get it running.
 <br>
