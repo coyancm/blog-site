@@ -37,13 +37,13 @@ In 2010, I began my formal education at the University of Cincinnati. My main fo
 <br>
 <div class="row">
 	<div class="column">
-		<img src="uploads/assets/dice.jpg" alt="Illustration of a d20 dice." style="width:100px;">
+		<img src="uploads/assets/dice.jpg" alt="Illustration of a d20 dice." style="display: block;margin-left: auto;margin-right: auto;width: 100px;border-radius: 8px;">
 	</div>
 	<div class="column">
-		<img src="uploads/assets/camera.jpg" alt="Illustration of a camera." style="width:100px;">
+		<img src="uploads/assets/camera.jpg" alt="Illustration of a camera." style="display: block;margin-left: auto;margin-right: auto;width: 100px;border-radius: 8px;">
 	</div>
 	<div class="column">
-		<img src="uploads/assets/design.jpg" alt="Illustration of the pen tool." style="width:100px;">
+		<img src="uploads/assets/design.jpg" alt="Illustration of the pen tool." style="display: block;margin-left: auto;margin-right: auto;width: 100px;border-radius: 8px;">
 	</div>
 </div>
 <br>
