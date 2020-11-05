@@ -6,25 +6,6 @@ date:   2020-10-25 1:00:07 -0400
 categories: Cooking
 description: "Experimenting with growing habaneros and making my own hot sauce."
 ---
-<style>
-* {
-  box-sizing: border-box;
-}
-
-	.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-</style>
 I've never had much of a green thumb (not for lack of effort, more for lack of trying) my plants have almost been exclusively succulents. Aloe and those small fractal shaped plants (echeveria elegans and haworthia fasciata) have always been my go to as I love the practical uses of aloe as a pale white dude and the other plants just look cool. This year I decided to try something a little different and challenged myself to grow some habaneros.
 <br>
 <br>

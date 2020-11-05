@@ -6,25 +6,6 @@ date:   2020-11-1 1:00:07 -0400
 categories: Drawing
 description: "My attempt at inktober 2020 and what it taught me."
 ---
-<style>
-* {
-  box-sizing: border-box;
-}
-
-	.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-</style>
 Inktober has always been an exciting concept for me. Created in 2009 by <a href="https://www.mrjakeparker.com/">Jake Parker</a>, Inktober challenges artists to create an ink drawing every day for the entire month of October. Each day has a predetermined subject to draw and most years have a theme with their subject matter. It has since grow to the point where many artist will make their own Inktober schedule and share it online to encourage others to participate in their theme as well. After many years of following, this year was the first year I decided to try my hand at it.
 <br>
 <br>
