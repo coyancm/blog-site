@@ -14,7 +14,7 @@ Over the course of a year this group taught me the fun of creative group story t
 
 That said I'd like to share some of my favorite tools I've found online that can help bring a little more life to your game!
 
-<h2><a href="roll20.net">Roll20</a></h2>
+<h2><a href="https://roll20.net">Roll20</a></h2>
 Roll20 is my favorite online resource for RPGs. This website allows you to play virtual sessions with others on a virtual grid map. Players and game masters can upload custom assets, draw on the board and use tons of character sheets from different RPGs. The site also comes with video/mic support as well as a slew of cool chat commands for rolling dice, speaking in or out of character and private messaging other players. The learning curve can be a little steep compared to the other resources on here, but that's due to how much this one service offers. 
 
 Price: free with paid tiers available for additional features.
