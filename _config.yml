@@ -34,6 +34,7 @@ google_analytics: UA—102995506-1
 
 
 # Build settings
+permalink: pretty
 theme: minima
 plugins:
   - jekyll-feed
