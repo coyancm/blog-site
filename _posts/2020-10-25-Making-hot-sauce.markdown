@@ -13,19 +13,19 @@ Now, I don't want to get into the whole life story of what was done with the gar
 <br>
 <br>
 <div class="row">
-	<div class="column">
+	<div class="column" style="box-sizing: border-box;">
 		<figure>
 			<img src="/uploads/blog/garden.jpg" alt="A small garden with a couple plants." style="display: block;margin-left: auto;margin-right: auto;width: 200px;border-radius: 8px;">
 			<figcaption style="text-align: center;">A modest amount of room for activities!</figcaption>
 		</figure>
 	</div>
-	<div class="column">
+	<div class="column" style="box-sizing: border-box;">
 		<figure>
 			<img src="/uploads/blog/plant.jpg" alt="A pepper plant set up indoors." style="display: block;margin-left: auto;margin-right: auto;width: 200px;border-radius: 8px;">
 			<figcaption style="text-align: center;">A modest indoor setup!</figcaption>
 		</figure>
 	</div>
-	<div class="column">
+	<div class="column" style="box-sizing: border-box;">
 		<figure>
 			<img src="/uploads/blog/peppers.jpg" alt="A hand full of habaneros on a paper towel." style="display: block;margin-left: auto;margin-right: auto;width: 200px;border-radius: 8px;">
 			<figcaption style="text-align: center;">A modest amount of peppers!</figcaption>

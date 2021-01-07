@@ -21,8 +21,8 @@ layout: home
   display: table;
   clear: both;
 }
-</style>
 
+</style>
 
 <p>
 <img src="uploads/assets/profile4.jpg" alt="Profile photo of Cameron Coyan." style="float:left;width:250px;margin-right:30px;margin-bottom: 10px;"> 

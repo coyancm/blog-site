@@ -13,17 +13,17 @@ My major focus as of late is creation new illustrations in illustrator. I stumbl
 <br>
 <br>
 <div class="row">
-	<div class="column">
+	<div class="column" style="box-sizing: border-box;">
 		<figure>
 			<a href="/uploads/blog/mash1.jpg"><img src="/uploads/blog/mash1.jpg" alt="A collection of illustrations including: a sheep, an owl, an abstract sphere and a creature with ice cream." style="display: block;margin-left: auto;margin-right: auto;width: 200px;border-radius: 8px;"></a>
 		</figure>
 	</div>
-	<div class="column">
+	<div class="column" style="box-sizing: border-box;">
 		<figure>
 			<a href="/uploads/blog/mash3.jpg"><img src="/uploads/blog/mash3.jpg" alt="An illustrations of a sad looking floopy disk with some unknown symbols next to it." style="display: block;margin-left: auto;margin-right: auto;width: 200px;border-radius: 8px;"></a>
 		</figure>
 	</div>
-	<div class="column">
+	<div class="column" style="box-sizing: border-box;">
 		<figure>
 			<a href="/uploads/blog/mash2.jpg"><img src="/uploads/blog/mash2.jpg" alt="A collection of illustrations including: a habanero, a pug, some mushrooms and a goofy looking man." style="display: block;margin-left: auto;margin-right: auto;width: 200px;border-radius: 8px;"></a>
 		</figure>
