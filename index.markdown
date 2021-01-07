@@ -8,7 +8,7 @@ layout: home
 /* Create three equal columns that floats next to each other */
 .column {
   float: left;
-  width: 15%;
+  width: 12%;
   padding: 10px;
   margin-left: 12%;
   margin-right: 1%;
